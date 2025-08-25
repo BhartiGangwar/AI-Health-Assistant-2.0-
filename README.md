@@ -29,5 +29,5 @@ The application operates through a seamless workflow:
 
 ## 🖼️ Demo
 
-![AI Health Assistant Interface](images/pro_demo.png)
+![AI Health Assistant Interface](https://github.com/BhartiGangwar/AI-Health-Assistant-2.0-/blob/main/pro_demo.png)
 
